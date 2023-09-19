@@ -67,7 +67,7 @@ func main() {
 					}
 					if t {
 						fmt.Println("It's a Tie!")
-                        return
+						return
 					}
 				}
 				play()
